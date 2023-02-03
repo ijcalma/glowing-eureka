@@ -11,6 +11,6 @@
 3. 
 
 ### IDE
-1. 
-2. 
-3. 
+1. PyCharm
+2. NetBeans
+3. Visual Studio
